@@ -59,7 +59,7 @@ This project demonstrates how to:
 
 Project Setup
 1. Clone the repository:
-    git clone https://github.com/your-username/real-time-stock-market-kafka.git
+    git clone https://github.com/MohanaprasadK/kafka-stock-market-project.git
     cd real-time-stock-market-kafka
 2. Install dependencies:
     pip install -r requirements.txt
