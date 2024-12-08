@@ -12,6 +12,8 @@ This project demonstrates how to:
   Leverage Amazon S3 for scalable, cost-effective cloud storage of processed data.
   This setup is ideal for real-world applications such as monitoring stock prices, processing IoT sensor data, or building scalable real-time analytics pipelines. It provides a foundation for handling live data streams in distributed systems, offering insights into data engineering principles like message streaming, cloud storage integration, and real-time processing.
 
+  <img src="Architecture.jpg">
+
 ---
 
 ## Features
